@@ -1,6 +1,5 @@
-### Hi there!
+Hello! I'm Glitch752, a hobbyist programmer who loves experimenting and learning new things.  
 
-I'm Brody, and I love learning new things!  
 Most of my projects here are partially or fully made to learn new concepts.  
 Feel free to check out or contribute to my miscellaneous projects. I do all different types of programming.
 
